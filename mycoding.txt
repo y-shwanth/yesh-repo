@@ -2,3 +2,7 @@
 hello everyone
 im yeshwanth
 now in the world of coding
+
+java
+c++
+python
